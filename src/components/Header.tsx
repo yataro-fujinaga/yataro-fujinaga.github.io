@@ -7,6 +7,7 @@ const navItems = {
   ja: [
     { label: "About", href: "#about" },
     { label: "Projects", href: "#projects" },
+    { label: "Side Projects", href: "#personal-projects" },
     { label: "Skills", href: "#skills" },
     { label: "Awards", href: "#awards" },
     { label: "Links", href: "#links" },
@@ -14,6 +15,7 @@ const navItems = {
   en: [
     { label: "About", href: "#about" },
     { label: "Projects", href: "#projects" },
+    { label: "Side Projects", href: "#personal-projects" },
     { label: "Skills", href: "#skills" },
     { label: "Awards", href: "#awards" },
     { label: "Links", href: "#links" },
